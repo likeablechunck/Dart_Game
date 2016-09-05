@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 1395532c3c8368d439ea019bd93d57f6
+timeCreated: 1456252990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smash_0
+    21300002: smash_1
+    21300004: smash_2
+    21300006: smash_3
+    21300008: smash_4
+    21300010: smash_5
+    21300012: smash_6
+    21300014: smash_7
+    21300016: smash_8
+    21300018: smash_9
+    21300020: smash_10
+    21300022: smash_11
+    21300024: smash_12
+    21300026: smash_13
+    21300028: smash_14
+    21300030: smash_15
+    21300032: smash_16
+    21300034: smash_17
+    21300036: smash_18
+    21300038: smash_19
+    21300040: smash_20
+    21300042: smash_21
+    21300044: smash_22
+    21300046: smash_23
+    21300048: smash_24
+    21300050: smash_25
+    21300052: smash_26
+    21300054: smash_27
+    21300056: smash_28
+    21300058: smash_29
+    21300060: smash_30
+    21300062: smash_31
+    21300064: smash_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: smash_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 75
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 67.5}
+        - {x: -27.5, y: 67.5}
+        - {x: -37.5, y: 48.5}
+        - {x: -37.5, y: -61.5}
+        - {x: -16.5, y: -67.5}
+        - {x: 34.5, y: -67.5}
+        - {x: 37.5, y: -58.5}
+        - {x: 37.5, y: 23.5}
+        - {x: 35.5, y: 60.5}
+    - name: smash_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 206
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 205
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 205
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 204
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -12}
+        - {x: -10.5, y: -17}
+        - {x: 12.5, y: -17}
+        - {x: 16.5, y: -11}
+        - {x: 16.5, y: 12}
+        - {x: 10.5, y: 17}
+    - name: smash_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 206
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 208
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 213
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 166
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 166
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 160
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 21.5}
+        - {x: -17.5, y: 1.5}
+        - {x: -11.5, y: -15.5}
+        - {x: 5.5, y: -21.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 17.5, y: 0.5}
+        - {x: 6.5, y: 21.5}
+    - name: smash_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 161
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: 0}
+        - {x: -11, y: -17}
+        - {x: -4, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 10}
+        - {x: 2, y: 20}
+    - name: smash_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 16}
+        - {x: -24, y: 10}
+        - {x: -27, y: -2}
+        - {x: -27, y: -16}
+        - {x: 22, y: -16}
+        - {x: 27, y: -11}
+        - {x: 27, y: 16}
+    - name: smash_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 165
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 16}
+        - {x: -24.5, y: 10}
+        - {x: -27.5, y: -5}
+        - {x: -27.5, y: -16}
+        - {x: 6.5, y: -16}
+        - {x: 27.5, y: -9}
+        - {x: 27.5, y: 15}
+        - {x: 24.5, y: 16}
+    - name: smash_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 125
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 125
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 10}
+        - {x: -18, y: -5}
+        - {x: -18, y: -16}
+        - {x: 11, y: -16}
+        - {x: 18, y: -12}
+        - {x: 18, y: 6}
+    - name: smash_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 124
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 125
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -17, y: 4}
+        - {x: -17, y: -11}
+        - {x: -10, y: -16}
+        - {x: 17, y: -16}
+        - {x: 17, y: 9}
+        - {x: 14, y: 16}
+    - name: smash_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 121
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -17}
+        - {x: -15, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 7}
+        - {x: 14, y: 20}
+    - name: smash_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 124
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -12}
+        - {x: -9.5, y: -17}
+        - {x: 9.5, y: -17}
+        - {x: 16.5, y: -11}
+        - {x: 16.5, y: 12}
+        - {x: 14.5, y: 17}
+    - name: smash_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 96
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 93
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 89
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 93
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: smash_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 200
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 17.5}
+        - {x: -100, y: 2.5}
+        - {x: -82, y: -17.5}
+        - {x: 100, y: -17.5}
+        - {x: 100, y: 9.5}
+        - {x: 83, y: 17.5}
+    - name: smash_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 200
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 42}
+        - {x: -100, y: 25}
+        - {x: -82, y: -42}
+        - {x: 100, y: -42}
+        - {x: 100, y: 34}
+        - {x: 83, y: 42}
+    - name: smash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 24}
+        - {x: -100, y: 8}
+        - {x: -82, y: -24}
+        - {x: 100, y: -24}
+        - {x: 100, y: 16}
+        - {x: 83, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
